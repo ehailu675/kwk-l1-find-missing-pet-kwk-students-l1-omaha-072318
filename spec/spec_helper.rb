@@ -1,4 +1,9 @@
-
+mv
+cats/indoor/back-
+alley/painting-
+elephants.jpg
+elephants/painter
+s
 # Require the file your code is in
 # require '/cats'
 
